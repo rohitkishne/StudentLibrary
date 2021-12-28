@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#root{
+  /* background-color: cadetblue; */
+  background-image: url('./bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+i{
+  cursor: pointer;
+}
+
+.footer{
+  margin-top: 150px;
+  height: 50px;
+  clear: both;
+}
